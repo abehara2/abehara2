@@ -1,4 +1,4 @@
-### Hi there, I'm Ashank 👋
+### Hi there, I'm Ashank (He/Him/His) 👋
 
 
 - 🦑 I'm currently a professional squid
@@ -6,4 +6,3 @@
 - 💬 Ask me about being a non-CS major breaking into tech
 - 📫 How to reach me: abehara2@illinois.edu
 - ⚡ Fun fact: Once upon a time, I had Division II offers for 🎾
-- 😄 Pronouns: He/Him/His
