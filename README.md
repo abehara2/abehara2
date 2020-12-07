@@ -5,5 +5,5 @@
 - 🤖 I love anything autonomy and robotics
 - 🤔 I’m looking for SWE & Robotics internships
 - 💬 Ask me about being a non-CS major breaking into tech
-- 📫 How to reach me: abehara2@illinois.edu
+- 📫 Reach out to me at abehara2@illinois.edu
 - ⚡ Fun fact: Once upon a time, I had Division II offers for 🎾
