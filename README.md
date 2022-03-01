@@ -1,6 +1,5 @@
 ### Hi there, I'm Ashank (He/Him/His) 👋
 
-
-- 🚗  Intern @ Tesla, DeepMap (NVIDIA), and 3M
-- 💬  Ask me about being a non-CS major breaking into tech
-- 📫  Reach out to me at abehara2@illinois.edu
+- 🛠  Co-founder, CEO @ www.shape.ci
+- 🚗  Formerly, vision and learning @ Tesla, NVIDIA, and 3M
+- 📫  Reach out to me at ashank@shape.ci
