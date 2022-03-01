@@ -2,4 +2,3 @@
 
 - 🛠  Co-founder, CEO @ www.shape.ci
 - 🚗  Formerly, vision and learning @ Tesla, NVIDIA, and 3M
-- 📫  Reach out to me at ashank@shape.ci
