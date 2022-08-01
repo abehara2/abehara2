@@ -1,4 +1,4 @@
 ### Hi there, I'm Ashank (He/Him/His) 👋
 
-- 🛠  Co-founder, CEO @ www.shape.ci
-- 🚗  Formerly, vision and learning @ Tesla, NVIDIA, and 3M
+- 🛠  Founder @ www.shape.ci
+- 🚗  Prev ML @ Tesla, NVIDIA, and 3M
